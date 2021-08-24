@@ -1,0 +1,33 @@
+Clearing build system data...
+Executing pre-compile tasks...
+Loading Ant configuration...
+Running Ant tasks...
+Cleaning output directories...
+Running 'before' tasks
+Checking sources
+Copying resources... [upstac-api-w3]
+Searching for compilable files... [upstac-api-w3]
+Parsing java... [upstac-api-w3]
+java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process "jps.track.ap.dependencies" VM flag to enable/disable incremental annotation processing environment.
+java: unknown enum constant javax.annotation.meta.When.MAYBE
+  reason: class file for javax.annotation.meta.When not found
+Writing classes... [upstac-api-w3]
+Updating dependency information... [upstac-api-w3]
+Adding @NotNull assertions... [upstac-api-w3]
+Adding pattern assertions... [upstac-api-w3]
+Adding the Threading Model assertions… [upstac-api-w3]
+Searching for compilable files... [tests of upstac-api-w3]
+Parsing java... [tests of upstac-api-w3]
+Writing classes... [tests of upstac-api-w3]
+Updating dependency information... [tests of upstac-api-w3]
+Adding @NotNull assertions... [tests of upstac-api-w3]
+Adding pattern assertions... [tests of upstac-api-w3]
+Adding the Threading Model assertions… [tests of upstac-api-w3]
+Running 'after' tasks
+javac 11.0.12 was used to compile java sources
+Finished, saving caches...
+Executing post-compile tasks...
+Loading Ant configuration...
+Running Ant tasks...
+Synchronizing output directories...
+24-08-2021 11:38 - Build completed successfully with 3 warnings in 5 sec, 878 ms
